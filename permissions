@@ -1,0 +1,92 @@
+:.......:...........................................:..............................................:
+:  key  :                  keyName                  :                     name                     :
+:.......:...........................................:..............................................:
+:  T_1  :                TICKET_VIEW                :                 Ticket View                  :
+:  T_8  :                TICKET_EDIT                :                 Ticket Edit                  :
+:  T_7  :                 TICKET_ADD                :                  Ticket Add                  :
+:  SO_8 : CUSTOMER_POST_PROVISION_SCRIPT_MANAGEMENT : Customer - Post Provision Script Management  :
+:  A_12 :           RESET_PORTAL_PASSWORD           :                Reset Password                :
+:  H_1  :               HARDWARE_VIEW               :               Hardware - View                :
+:  T_2  :               TICKET_SEARCH               :               Tickets - Search               :
+:  A_3  :           UPDATE_PAYMENT_DETAILS          :            Update Payment Details            :
+:  A_4  :             ONE_TIME_PAYMENTS             :              One Time Payments               :
+:  A_1  :            ACCOUNT_SUMMARY_VIEW           :             View Account Summary             :
+:  SO_9 :      VIEW_CUSTOMER_SOFTWARE_PASSWORD      :       View Customer Software Password        :
+: NET_3 :           NETWORK_TUNNEL_MANAGE           :         Network - Tunnel Management          :
+: ALL_2 :              ACCESS_ALL_GUEST             :               All Guest Access               :
+: COM_1 :         REQUEST_COMPLIANCE_REPORT         :          Request Compliance Report           :
+:  SE_8 :         SECURITY_CERTIFICATE_VIEW         :           View Certificates (SSL)            :
+:  SG_1 :             SCALE_GROUP_MANAGE            :            Manage Scaling Groups             :
+: GTW_1 :               GATEWAY_MANAGE              :           Manage Network Gateways            :
+: ALL_1 :            ACCESS_ALL_HARDWARE            :             All Hardware Access              :
+:  SO_1 :                VIEW_CPANEL                :                 View cPanel                  :
+:  SO_2 :                 VIEW_PLESK                :                  View Plesk                  :
+:  SO_3 :                 VIEW_HELM                 :                  View Helm                   :
+:  SO_4 :                VIEW_URCHIN                :                 View Urchin                  :
+:  A_10 :            ADD_SERVICE_STORAGE            :          Add Storage (StorageLayer)          :
+:  A_0  :                USER_MANAGE                :               add / edit user                :
+:  XX_1 :                 SERVER_ADD                :                  add server                  :
+:  A_2  :                COMPANY_EDIT               :                 edit company                 :
+:  A_5  :               SERVER_UPGRADE              :                Upgrade Server                :
+:  A_6  :               SERVER_CANCEL               :                Cancel Server                 :
+:  A_7  :                SERVICE_ADD                :                 Add Services                 :
+:  A_8  :              SERVICE_UPGRADE              :               Upgrade Services               :
+:  A_9  :               SERVICE_CANCEL              :               Cancel Services                :
+:  B_1  :              BANDWIDTH_MANAGE             :                  bandwidth                   :
+: DNS_1 :                 DNS_MANAGE                :                  Manage DNS                  :
+:  F_1  :                FORUM_ACCESS               :                    forums                    :
+:  H_2  :             REMOTE_MANAGEMENT             :                     IPMI                     :
+:  H_3  :             MONITORING_MANAGE             :                  Monitoring                  :
+:  H_4  :               SERVER_RELOAD               :                  OS Reloads                  :
+:  H_5  :                LICENSE_VIEW               :                View licenses                 :
+:  H_6  :                   IP_ADD                  :                   Add Ips                    :
+: NAS_1 :               LOCKBOX_MANAGE              :                Manage lockbox                :
+: NAS_2 :                 NAS_MANAGE                :                  Manage NAS                  :
+:  PI_1 :              SSL_VPN_ENABLED              :                   ssl vpn                    :
+:  PO_1 :                PORT_CONTROL               :             Manage Port Control              :
+:  PU_2 :                PORT_UPGRADE               :                 Upgrade Port                 :
+:  SE_1 :              SECURITY_MANAGE              :                   Security                   :
+:  T_3  :               TICKET_MANAGE               :              Add / Edit Tickets              :
+: LBS_1 :            LOADBALANCER_MANAGE            :            Manage Load Balancers             :
+:  SE_2 :              FIREWALL_MANAGE              :              Hardware Firewall               :
+:  SE_3 :          SOFTWARE_FIREWALL_MANAGE         :              Software Firewall               :
+:  SE_4 :            ANTI_MALWARE_MANAGE            :             Antivirus / Spyware              :
+:  SE_5 :             NETWORK_IDS_MANAGE            :                 Network IDS                  :
+:  SE_6 :               HOST_ID_MANAGE              :                   Host IDS                   :
+:  SE_7 :              VULN_SCAN_MANAGE             :           Vulnerability Scanning             :
+: NTF_1 :           NTF_SUBSCRIBER_MANAGE           : Manage StorageLayer Notification Subscribers :
+: NET_2 :           NETWORK_VLAN_SPANNING           :            Network VLAN Spanning             :
+: CDN_1 :             CDN_ACCOUNT_MANAGE            :              Manage CDN Account              :
+: CDN_2 :              CDN_FILE_MANAGE              :               CDN File Manage                :
+: CDN_3 :             CDN_BANDWIDTH_VIEW            :              View CDN Bandwidth              :
+: NET_1 :            NETWORK_ROUTE_MANAGE           :            Manage network routes             :
+:  VG_1 :             VIRTUAL_GUEST_VIEW            :     View CloudLayer Computing Instances      :
+:  A_11 :              INSTANCE_UPGRADE             :           Cloude Instance upgrade            :
+:  H_7  :               HOSTNAME_EDIT               :                   Hostname                   :
+:  T_4  :          TICKET_VIEW_BY_HARDWARE          :       View Tickets by Hardware Access        :
+:  T_5  :        TICKET_VIEW_BY_VIRTUAL_GUEST       :  View Tickets by Computing Instance Access   :
+:  SO_6 :                QUEUE_MANAGE               :             Manage Queue Service             :
+: NET_4 :      NETWORK_MESSAGE_DELIVERY_MANAGE      :        Manage E-mail Delivery Service        :
+:  AP_1 :       ACCOUNT_PASSWORD_AUXILIARY_ADD      :            Add Auxiliary Password            :
+:  AP_2 :      ACCOUNT_PASSWORD_AUXILIARY_EDIT      :           Edit Auxiliary Password            :
+:  AP_3 :     ACCOUNT_PASSWORD_AUXILIARY_DELETE     :          Delete Auxiliary Password           :
+:  A_14 :            ACCOUNT_CUSTOMER_ADD           :             Add Customer Account             :
+:  A_13 :             ACCOUNT_BRAND_ADD             :              Add Brand Account               :
+:  A_15 :            USER_EVENT_LOG_VIEW            :                View Event Log                :
+: VPN_1 :                 VPN_MANAGE                :                  Manage VPN                  :
+:  SO_7 :              VIEW_QUANTASTOR              :               View QuantaStor                :
+:  DA_1 :             DATACENTER_ACCESS             :        Physically Access a Datacenter        :
+:  DA_2 :           DATACENTER_ROOM_ACCESS          :   Physically Access a Customer's Colo Cage   :
+: SE_10 :        CUSTOMER_SSH_KEY_MANAGEMENT        :               Manage SSH Keys                :
+:  T_6  :              TICKET_VIEW_ALL              :               View All Tickets               :
+:  FW_1 :            FIREWALL_RULE_MANAGE           :            Manage Firewall Rules             :
+:  I_1  :            PUBLIC_IMAGE_MANAGE            :             Manage Public Images             :
+:  SE_9 :        SECURITY_CERTIFICATE_MANAGE        :          Manage Certificates (SSL)           :
+:  SM_1 :         SAML_AUTHENTICATION_MANAGE        :          SAML authentication manage          :
+: NET_6 :           PUBLIC_NETWORK_COMPUTE          :     Add Compute with Public Network Port     :
+:  VH_1 :            DEDICATED_HOST_VIEW            :         Virtual Dedicated Host View          :
+: ALL_3 :         ACCESS_ALL_DEDICATEDHOSTS         :        Access Virtual DedicatedHosts         :
+:  A_16 :          ACTIVATE_PARTNER_ACCOUNT         :      Activate Partner Customer Account       :
+:  MP_1 :           MANAGE_PUBLIC_NETWORK           :            Manage Public Network             :
+: NET_5 :           MANAGE_SECURITY_GROUPS          :            Manage Security Groups            :
+:.......:...........................................:..............................................:
