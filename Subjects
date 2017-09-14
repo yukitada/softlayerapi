@@ -1,0 +1,31 @@
+:............:......:.............................................:..........:
+: categoryId :  id  :                     name                    : parentId :
+:............:......:.............................................:..........:
+:     3      : 1522 :                 API Question                :          :
+:     2      : 1001 :              Accounting Request             :          :
+:     3      : 1181 :                 CDN Question                :          :
+:     1      : 1261 :          Colocation Service Request         :          :
+:     3      : 1041 :                 DNS Request                 :          :
+:     3      : 1201 :               DOS/Abuse Issue               :          :
+:     3      : 1121 :          Hardware Firewall Question         :          :
+:     3      : 1021 :                Hardware Issue               :          :
+:     3      : 1122 :       Hardware Load Balancer Question       :          :
+:     1      : 1081 :              Licensing Question             :          :
+:     3      : 1141 :              Mail Server Issue              :          :
+:     3      : 1004 :              OS Reload Question             :          :
+:     3      : 1005 :         Portal Information Question         :          :
+:     3      : 1061 :           Private Network Question          :          :
+:     3      : 1022 :           Public Network Question           :          :
+:     3      : 1003 :          Reboots and Console Access         :          :
+:     1      : 1002 :                Sales Request                :          :
+:     1      : 1603 :   Sales Request - Compute & Infrastructure  :          :
+:     1      : 1645 :       Sales Request - Firewall Service      :          :
+:     1      : 1647 :       Sales Request - General Question      :          :
+:     1      : 1605 : Sales Request - Network & Security Services :          :
+:     1      : 1643 :        Sales Request - Other Services       :          :
+:     1      : 1607 :      Sales Request - Upgrades & Add-ons     :          :
+:     3      : 1101 :                Security Issue               :          :
+:     3      : 1161 :               Storage Question              :          :
+:     3      : 1221 :             Transcoding Question            :          :
+:     3      : 1482 :               Vyatta Question               :          :
+:............:......:.............................................:..........:
